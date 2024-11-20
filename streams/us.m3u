@@ -169,8 +169,6 @@ https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCHDTV.us",BMC-HD TV
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us",Buzzr (1080p)
-https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BXArts.us",BX Arts (720p)
 https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8
 #EXTINF:-1 tvg-id="BXCulture.us",BX Culture (720p)
@@ -613,6 +611,10 @@ https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1 tvg-id="",Nickelodeon Deutschland [Geo-blocked]
 https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+#EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon East (720p)
+http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPanregional.us",Nickelodeon Panregional (480p)
 http://45.181.122.13:8000/play/019
 #EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons (720p)
@@ -1014,3 +1016,5 @@ https://thegateway.app/YouToo/YTamerica/playlist.m3u8
 #EXTINF:-1 tvg-id="ZoomNews.us",Zoom TV Kurdish (720p)
 #EXTVLCOPT:http-referrer=https://zoomnews.info/
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
+#EXTINF:-1 tvg-id="WBRADT3.us" tvg-shift="-4",WBRA PBS Kids (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
